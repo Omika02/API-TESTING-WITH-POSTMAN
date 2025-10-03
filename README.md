@@ -74,3 +74,7 @@ API testing with Postman & Newman is widely used in the **software development i
 * **Banking system** → APIs for transactions, balance checks, loan approvals. Automated testing ensures correctness before going live.
 * **Healthcare apps** → Secure API testing for patient records & reports.
 
+OUTPUT
+
+<img width="960" height="510" alt="Image" src="https://github.com/user-attachments/assets/6688fa9f-becc-4b17-85a9-5a903674341d" />
+
